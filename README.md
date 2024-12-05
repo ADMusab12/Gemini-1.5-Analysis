@@ -26,3 +26,25 @@ Analyze images and video frames dynamically.
 ## Screenshots
 
 ![Home Screen](screenshots/1.jpg)
+
+---
+
+![Home Screen](screenshots/2.jpg)
+
+---
+
+![Home Screen](screenshots/3.jpg)
+
+---
+
+![Home Screen](screenshots/4.jpg)
+
+---
+
+![Home Screen](screenshots/5.jpg)
+
+---
+
+![Home Screen](screenshots/6.jpg)
+
+---
