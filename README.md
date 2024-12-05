@@ -22,3 +22,7 @@ Get info like Calories, Macronutrients, Vitamins.
 🎥 Image & Video Analysis
 
 Analyze images and video frames dynamically.
+
+## Screenshots
+
+![Home Screen](screenshots/1.jpg)
