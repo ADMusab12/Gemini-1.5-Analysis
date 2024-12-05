@@ -1,7 +1,7 @@
 package com.trino.dietplanai.util
 
 object Constant {
-    val GEMINI_KEY ="AIzaSyD4nhriKJGPKeuCHab1oy7zz1hoVexr4Rc"
+    val GEMINI_KEY =""
     var gemini_reply = ""
 
     //todo bullet design unicode
