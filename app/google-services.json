@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945939343524",
+    "project_id": "object-detection-297e2",
+    "storage_bucket": "object-detection-297e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945939343524:android:16271eb0033562758ede31",
+        "android_client_info": {
+          "package_name": "com.trino.dietplanai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoS6lHDn0eD2trGgRviigbxN69fWH9Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
