@@ -1,9 +1,7 @@
 package com.trino.dietplanai.util
 
 object Constant {
-    //todo here your own gemini apki key
-    
-    val GEMINI_KEY =""
+    val GEMINI_KEY ="AIzaSyD4nhriKJGPKeuCHab1oy7zz1hoVexr4Rc"
     var gemini_reply = ""
 
     //todo bullet design unicode
